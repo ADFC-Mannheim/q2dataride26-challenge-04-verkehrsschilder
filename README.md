@@ -13,12 +13,12 @@ Verkehrsberuhigung oder für Geschwindigkeitseinschränkungen (z. B. Tempo 30)?
 
 ### Verkehrsschilder-Kataster
 
-Die Schilderdaten liegen als GeoJSON-Datei vor und sind direkt mit `geopandas` ladbar:
+Die Schilderdaten liegen in [diesem Repo ](https://github.com/ADFC-Mannheim/q2dataride26-restricted-data) als GeoJSON-Datei vor und sind direkt mit `geopandas` ladbar:
 
 ```python
 import geopandas as gpd
 
-gdf = gpd.read_file("Hackathon_VZ.geojson")
+gdf = gpd.read_file("../data/vzkataster/Hackathon_VZ.geojson")
 
 # Nicht notwendig aber nützlich um den Aufbau sehen zu können
 gdf.head()
