@@ -36,7 +36,7 @@ ctx.add_basemap(ax, source=ctx.providers.OpenStreetMap.Mapnik)
 plt.show()
 ```
 
-### OpenStreetMaps
+### OpenStreetMap
 
 Für OpenStreetMap lohnt sich evtl. ein Blick auf [Overpass](https://wiki.openstreetmap.org/wiki/DE:Overpass_API).
 
