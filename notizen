@@ -1,6 +1,6 @@
 Notizen:
 - Falscherkennung von Kennzeichen (bspw. 70km/h als 10km/h, 20er Schild als 30er erkannt (bsp. Jungbuschstr. Mannheim) )
 - Fehlende VZ, nur 5 überhaupt enthalten, Verkehrsberuhigter Bereich nicht in Mannheim enthalten
-- panoramax und mapilarry haben auch Verkehrszeichenerkennung - ggf. lohnt sich hier ein Vergleich
+- panoramax und mapilary haben auch Verkehrszeichenerkennung - ggf. lohnt sich hier ein Vergleich
 - ggf. openstreetmaps nutzen für Anteil von Anteile an 
 - Idee: Kombination von Radverkehr + Geschwindigkeitsbeschränkungen auf einer Karte
